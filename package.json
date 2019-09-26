@@ -1,0 +1,13 @@
+{
+  "name": "sandbox-api-gataway",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "sls deploy"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "serverless": "^1.43.0"
+  }
+}
